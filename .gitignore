@@ -1,0 +1,15 @@
+# Node.js
+/node_modules/
+
+# Logs
+*.log
+
+# OS-specific files
+.DS_Store
+Thumbs.db
+
+# dotenv environment variable files
+.env
+
+# NPM package lock files (optional)
+package-lock.json
